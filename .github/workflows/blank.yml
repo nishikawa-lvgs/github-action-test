@@ -32,4 +32,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: nishikawa test
-        run: echo 'foo'
+        run: docker run
